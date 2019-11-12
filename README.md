@@ -1,6 +1,6 @@
 # ESP8266
 
-<h3>ComponentList</h3>
+<h3>Component List</h3>
 <ul>
 <li>DHT11 Temp/Humidity module</li>
 <li>ESP8266 Wifi module</li>
