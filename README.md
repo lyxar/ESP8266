@@ -13,3 +13,5 @@
 <li>Arduino Mega2560</li>
 <li>Atmel encoder</li>
 </ul>
+
+<img src="https://i.imgur.com/PajVLN5.png"/>
