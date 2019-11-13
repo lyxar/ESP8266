@@ -70,5 +70,7 @@ The math operates as shown below, with the multiplyer in the top row and the bit
   </tr>
 </table>
 
-This method takes 2 arguments, first an two dimensonal array pointer. Second a int defining which byte to be converted. The method return the decimal value of the selected byte.
+This method takes 2 arguments, first an two dimensonal array pointer. Second a int defining which byte to be converted. The method returns the decimal value of the selected byte.
+
+This figure show the process between the MCU and the DHT11.
 <img src="https://i.imgur.com/VBbpFrD.png"/>
