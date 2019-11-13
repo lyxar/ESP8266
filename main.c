@@ -4,8 +4,7 @@
 *
 */
 #include "DHT11/DHT11_Master.h"
-#include "RS232/RS232.h"
-#include "setup/stdio_setup.h"
+#include "ESP8266/ESP8266.h"
 
 int main(void)
 {

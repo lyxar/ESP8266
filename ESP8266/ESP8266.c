@@ -1,11 +1,11 @@
 /*
- * RS232.c
+ * ESP8266.c
  *
  * Created: 11-11-2019 14:37:37
  *  Author: Emil Holm Hansen
  */ 
 
-#include "RS232.h"
+#include "ESP8266.h"
 
 int8_t Response_Status;
 volatile int16_t Counter = 0, pointer = 0;

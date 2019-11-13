@@ -51,7 +51,7 @@ void DHT_Decode_Data(int (*array)[8])
 	//Waits for the DHT11 to start transmitting
 	while(bit_is_set(DHT_PIN, DHT_BIT))
 	{
-		//Breaks when the DHT11 strat transmitting
+		//Breaks when the DHT11 start transmitting
 		if(bit_is_clear(DHT_PIN, DHT_BIT))
 		break;
 	}

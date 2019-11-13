@@ -1,5 +1,5 @@
 /*
- * RS232.h
+ * ESP8266.h
  *
  * Created: 11-11-2019 14:37:48
  *  Author: Emil Holm Hansen
