@@ -63,8 +63,8 @@ The math operates as shown below, with the multiplyer in the top row and the bit
     <td>1</td>
     <td>0</td>
     <td>0</td>
-    <td>1</td>
     <td>0</td>
+    <td>1</td>
     <td>0</td>
     <td>0</td>
   </tr>
