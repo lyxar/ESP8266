@@ -28,7 +28,7 @@ The potentional result of using this program is as follows.
 Here is a list explaining the methods used in this program.
 
 <h3>DHT11</h3>
-Temperature and humidity module. A digram of what method is used where can be seen further down the readme.
+Temperature and humidity module. A digram of which method is used where can be seen further down the readme.
 
 <h4>DHT_WakeUp</h4>
 This method is used to start the initial connection to the DHT11, by pulling the bit LOW for a minimum of 18ms before changing the bit to input and adding a pullup resistor.
@@ -80,3 +80,7 @@ This method takes 2 arguments, first an two dimensonal array pointer. Second a i
 
 This figure show the process between the MCU and the DHT11.
 <img src="https://i.imgur.com/VBbpFrD.png"/>
+
+## ESP8266 Communication diagram
+
+<img src="https://i.imgur.com/jWAhi2a.png"/>
