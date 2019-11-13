@@ -3,7 +3,7 @@
 <h3>Introduction</h3>
 This program is designed on a Arduino mega 2560.
 This program is designed with the intention of reciving data from the DHT11 temperature/humidity module, and send this data to an API, in this example <a href="https://thingspeak.com/">Thingspeak</a> is used as the API. The program will contact the API every 15 seconds and send Temp/Humidity alternating.
-
+</br>
 The potentional result of using this program is as follows.
 <img src="https://i.imgur.com/KryIs54.png"/>
 
